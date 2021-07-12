@@ -1,5 +1,5 @@
 cp pwsh-obfuscate.py /usr/local/bin/pwsh-obfuscate
-cp template.txt /usr/local/bin/template.txt
+cp stub.txt /usr/local/bin/stub.txt
 chmod 774 /usr/local/bin/pwsh-obfuscate
 chown kali:kali /usr/local/bin/pwsh-obfuscate
 
