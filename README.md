@@ -12,10 +12,10 @@ pwsh-obfuscate -p '/home/kali/Desktop/payload.ps1' -o '/home/kali/Desktop/obfusc
 
 # Screen
 
-Virus total scan
+
 ![alt text](https://raw.githubusercontent.com/dallas123456789/pwsh-obfuscate/main/images/scan.PNG)
 
-Usage
+
 ![alt text](https://raw.githubusercontent.com/dallas123456789/pwsh-obfuscate/main/images/usage.PNG)
 
 
