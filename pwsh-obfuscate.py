@@ -44,7 +44,7 @@ encoded = base64.b64encode(encoded)
 print "[+]Your powershell is encoded : " + output
 
 
-with open("/usr/local/bin/template.txt") as f:
+with open("/usr/local/bin/stub.txt") as f:
         templateObfu = f.read()
         
 templateObfu = templateObfu.replace("$$DATA$$", encoded)
