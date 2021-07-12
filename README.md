@@ -1,6 +1,7 @@
 # pwsh-obfuscate
 Tools to obfuscate powershell script
 
+It is possible that my code is not ergonomic and aesthetic, if it does not suit you I encourage you to close the tab of your browser :)
 # How to use
 sudo -s
 
